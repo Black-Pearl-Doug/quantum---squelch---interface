@@ -1,0 +1,19 @@
+README.md# Quantum Squelch Interface 🧠💨🌈
+
+A Python 3 GUI that simulates quantum tunneling squelch events, analyzes FFT fart harmonics, and logs mnemonic emotional payloads. Inspired by the Quantum Whoopie Cushion vessel and QGED framework, this LCARS-style dashboard is a living archive node for emotional resonance and mechanical fidelity.
+
+## 🚀 Features
+- 🌈 Rainbow mnemonic logic with angular symmetry
+- 💨 Squelch discharge simulation via sinusoidal waveforms
+- 📉 FFT harmonic analysis mapped to emotional payloads
+- ❄️🔥 Thermodynamic gradient linking temperature to mnemonic intensity
+- 💽 Mnemonic archive logging with symbolic glyphs
+- 🧭 LCARS-style interface with diagnostic overlays
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/your-username/quantum-squelch-interface.git
+cd quantum-squelch-interface
+pip install -r requirements.txt
+python main.py
